@@ -55,6 +55,8 @@ if __name__ == '__main__':
     #     if digte == 5:
     #         gen.close()
     gen = programming_language_generator()
+    #o`zgartrish 
+
 
 
 
